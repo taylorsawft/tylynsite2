@@ -32,7 +32,7 @@ img {
 
 #reel h2{
   font-family: "Abril Fatface", cursive;
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 #reel .row{
@@ -54,7 +54,7 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 70px;
   background-color: darkgrey;
 }
 
